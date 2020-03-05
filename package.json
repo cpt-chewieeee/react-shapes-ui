@@ -1,6 +1,6 @@
 {
   "name": "react-shapes-ui",
-  "version": "4.0.0",
+  "version": "0.0.1",
   "description": "shapes and things",
   "main": "dist/react-shapes-ui.js",
   "scripts": {
